@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add any CSV files to the `puts_csv_files_here` folder.
+
+From the project root folder, run `ruby bin/scrape_qbo_details` to start the CLI. 
 
 ## Development
 
