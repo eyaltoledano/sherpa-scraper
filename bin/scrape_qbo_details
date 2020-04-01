@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-
-require './lib/qbo_directory_detail_scraper'
+require './lib/qbo_directory_detail_scraper' # environment file
 
 QboDirectoryDetailScraper::CLI.new.run
