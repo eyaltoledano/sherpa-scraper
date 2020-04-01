@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require './lib/qbo_directory_detail_scraper'
+
+QboDirectoryDetailScraper::CLI.new.run
